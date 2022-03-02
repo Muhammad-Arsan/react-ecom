@@ -38,7 +38,9 @@
      background: #171717;
      transform: scale(1.2);
 }
-
+.cartitem__deleteBtn{
+cursor: pointer;
+}
 @media (max-width: 700px) {
      .cartItem__name {
           font-size: 0.8rem;
